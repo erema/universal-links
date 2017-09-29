@@ -1,11 +1,13 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
-			{
-				"appID": "8CYDH55V7V.ru.flysoft.ifunnydev",
-				"paths": [ "*"]
-			}
-		]
-	}
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "8CYDH55V7V.ru.flysoft.ifunnydev",
+      "paths": ["/fun/*",
+      "/app/studio",
+      "/channels/*"]
+    }
+    ]
+  }
 }
